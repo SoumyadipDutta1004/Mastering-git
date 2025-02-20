@@ -1,4 +1,4 @@
-# Welcome to Git!
+# Welcome to the git guide by soumyadip dutta.
 
 
 - Yo, jonney here. 
