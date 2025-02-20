@@ -1,4 +1,4 @@
-# Heyoo everyone, welcome to my git guide
+# Heyoo everyone, welcome to my git guide by soumyadip
 
 
 - Yo, jonney here. 
